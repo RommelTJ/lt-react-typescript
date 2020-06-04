@@ -1,5 +1,7 @@
 import React, {PropsWithChildren, useRef} from "react";
 
+import "./NewTodo.css";
+
 type NewTodoProps = {
   onAddTodo: (todoText: string) => void;
 };
