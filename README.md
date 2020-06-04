@@ -1,6 +1,6 @@
 # Learning TypeScript - ReactJS with TypeScript
 
-Version: 0.0.1 - 2 Jun 2020
+Version: 1.0.0 - 4 Jun 2020
 
 ## Description
 
