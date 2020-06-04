@@ -1,5 +1,9 @@
 import React from "react";
 
-const NewTodo = () => {};
+const NewTodo: React.FC = () => {
+  return (
+    <form></form>
+  );
+};
 
 export default NewTodo;
